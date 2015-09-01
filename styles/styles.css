@@ -3,9 +3,9 @@ section {
   font-family: Arial, sans-serif;
 }
 
-/*.board {
+.board {
   margin-left: 77px;
-}*/
+}
 
 button {
   min-height: 30px;
