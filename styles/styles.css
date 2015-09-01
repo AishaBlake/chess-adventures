@@ -1,0 +1,40 @@
+section {
+  position: relative;
+  font-family: Arial, sans-serif;
+}
+
+/*.board {
+  margin-left: 77px;
+}*/
+
+button {
+  min-height: 30px;
+  font-size: 1.5em;
+  border-radius: 10px;
+}
+.action-btn {
+  background-color: #20CEE3;
+  color: black;
+  margin: 0px 38px 10px 0px;
+}
+.reset-btn {
+  width: 400px;
+  background-color: #D15900;
+  color: white;
+  margin-top: 10px;
+}
+
+span {
+  background-color: #D15900;
+  color: white;
+  position: absolute;
+  left: 0;
+  padding: 10px;
+  font-size: 1.2em;
+}
+#o-timer {
+  top: 50px;
+}
+#p-timer {
+  bottom: 50px;
+}
